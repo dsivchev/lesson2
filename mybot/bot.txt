@@ -1,0 +1,3 @@
+bot name: Learn Python DS Bot
+username: LPDSivchev_bot
+bot HTTP API token: 1862469603:AAEfEluQT5bbyS9lznOEAvaPC6YZxNdJZRE
